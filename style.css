@@ -28,7 +28,7 @@ body {
 }
 
 section {
-  padding: 40px 50px;
+  padding: 40px 157px;
   margin-top: 80px;
 }
 footer {
@@ -335,7 +335,7 @@ p {
 
 .container-card {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(286px, 1fr));
   justify-content: center;
   gap: 20px;
 }
