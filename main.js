@@ -1,4 +1,4 @@
-// AOS.init();
+AOS.init();
 
 $(".testimonials-slider").slick({
   dots: false, // Add navigation dots
